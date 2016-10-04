@@ -15,6 +15,11 @@ namespace Fundamentals.Tests
             InitializeComponent();
         }
 
+        public bool Valid()
+        {
+            return true;
+        }
+
         public Component1(IContainer container)
         {
             container.Add(this);
