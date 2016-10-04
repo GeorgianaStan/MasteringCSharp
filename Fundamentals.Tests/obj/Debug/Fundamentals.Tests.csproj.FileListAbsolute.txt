@@ -1,0 +1,9 @@
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\Fundamentals.Tests.csprojResolveAssemblyReference.cache
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\Fundamentals.Tests.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\Fundamentals.Tests.pdb
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\Fundamentals.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\nunit.framework.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\Fundamentals.pdb
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\nunit.framework.xml
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\Fundamentals.Tests.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\Fundamentals.Tests.pdb

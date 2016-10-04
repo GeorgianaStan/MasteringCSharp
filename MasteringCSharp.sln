@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{54AA9724-B25B-47CC-944F-864BE1E19B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals.Tests", "Fundamentals.Tests\Fundamentals.Tests.csproj", "{BD73EB22-E7ED-4C73-890C-677C53A58022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AA9724-B25B-47CC-944F-864BE1E19B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AA9724-B25B-47CC-944F-864BE1E19B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AA9724-B25B-47CC-944F-864BE1E19B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AA9724-B25B-47CC-944F-864BE1E19B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD73EB22-E7ED-4C73-890C-677C53A58022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD73EB22-E7ED-4C73-890C-677C53A58022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD73EB22-E7ED-4C73-890C-677C53A58022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD73EB22-E7ED-4C73-890C-677C53A58022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

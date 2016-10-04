@@ -1,0 +1,5 @@
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals\bin\Debug\Fundamentals.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals\bin\Debug\Fundamentals.pdb
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals\obj\Debug\Fundamentals.dll
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals\obj\Debug\Fundamentals.pdb
+c:\users\gstan\documents\visual studio 2015\Projects\MasteringCSharp\Fundamentals\obj\Debug\Fundamentals.csprojResolveAssemblyReference.cache
