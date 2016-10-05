@@ -11,7 +11,7 @@ namespace Fundamentals.Tests
     {
         public void test()
         {
-            Console.WriteLine("Evrica");
+            Console.WriteLine("Evrica Parola schimbata");
         }
     }
 }
